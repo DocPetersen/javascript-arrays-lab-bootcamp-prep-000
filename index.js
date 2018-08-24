@@ -21,5 +21,5 @@ function appendKitten(name) {
 }
 
 function pretendKitten(name) {
-  
+  return.
 }
