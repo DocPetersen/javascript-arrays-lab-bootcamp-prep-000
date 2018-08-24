@@ -25,5 +25,5 @@ function pretendKitten(name) {
 }
 
 function removeLastKitten() {
-  
+  return slice(name )
 }
