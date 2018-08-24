@@ -1,4 +1,4 @@
-var kittens = 
+var kittens = ['Milo', '']
 function removeFirstKitten(array) {
   return array.appendKitten("Ralph");
 }
