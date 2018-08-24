@@ -5,5 +5,5 @@ function removeFirstKitten(array) {
 }
 
 function destructivelyAppendKitten(array) {
-  
+  array.push("")
 }
