@@ -3,4 +3,6 @@ function removeFirstKitten(array) {
   return array.appendKitten("Ralph");
 }
 
-function destructivelyAppendKitten(name)
+function destructivelyAppendKitten(array) {
+  return array.
+}
