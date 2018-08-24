@@ -1,2 +1,4 @@
 // Add your functions and code here
-function removeFirstKitten(array)
+function removeFirstKitten(array) {
+  
+}
