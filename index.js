@@ -1,9 +1,9 @@
 var kittens = ['Milo', 'Otis', 'Garfield'];
 
 function removeFirstKitten(array) {
-  array.AppendKitten("name");
+  array.AppendKitten(name);
 }
 
 function destructivelyAppendKitten(array) {
-  array.push("")
+  array.push(name);
 }
