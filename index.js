@@ -5,6 +5,5 @@ function removeFirstKitten(array) {
 }
 
 function destructivelyAppendKitten(array) {
-  unshift("Ralph");
-  return array;
+  
 }
