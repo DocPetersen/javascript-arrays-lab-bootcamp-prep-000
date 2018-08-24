@@ -21,5 +21,9 @@ function appendKitten(name) {
 }
 
 function pretendKitten(name) {
-  return name.
+  return name.concat(kittens);
+}
+
+function removeLastKitten() {
+  
 }
